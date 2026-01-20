@@ -7,13 +7,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,qt,opencv,git,cmake" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furkanvka&show_icons=true&theme=tokyonight&hide_border=true" />
