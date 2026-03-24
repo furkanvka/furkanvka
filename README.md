@@ -20,8 +20,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square)
 
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furkanvka&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -31,7 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanvka&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 ## 📫 Contact
 <p align="center">
   <a href="https://github.com/furkanvka">
