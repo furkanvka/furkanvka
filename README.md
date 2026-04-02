@@ -9,7 +9,7 @@
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&l
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&l)
 
 ### 👁️ Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
