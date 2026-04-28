@@ -19,7 +19,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square)
 
 ## 📊 GitHub Stats
 
