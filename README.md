@@ -47,11 +47,17 @@ I am a Computer Engineering student at Yıldız Technical University, deeply pas
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkanvka&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Furkan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanvka&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Langs" />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=furkanvka&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    alt="Furkan's GitHub stats" 
+  />
+  
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanvka&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
