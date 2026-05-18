@@ -15,8 +15,6 @@ I am a Computer Engineering student at Yıldız Technical University, deeply pas
 *   💻 **Backend Systems:** Crafting high-performance, concurrent architectures using Go, C++, and Java/Spring Boot.
 *   ⚙️ **Low-Level Engineering:** Interested in Linux kernel development, bash scripting, and digital hardware design.
 
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -41,8 +39,6 @@ I am a Computer Engineering student at Yıldız Technical University, deeply pas
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
