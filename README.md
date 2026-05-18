@@ -45,7 +45,9 @@ I am a Computer Engineering student at Yıldız Technical University.
     height="180em"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=furkanvka&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
   />
+</p>
 
+<p align="center">
   <img
     height="180em"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkanvka&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
