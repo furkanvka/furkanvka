@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=furkanvka&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
----
-
 ## 🚀 About Me
 
 I am a Computer Engineering student at Yıldız Technical University, deeply passionate about the intersection of **Robotics**, **High-Performance Backend Architectures**, and **Artificial Intelligence**. I love building autonomous systems, optimizing low-level software, and designing scalable backend solutions.
@@ -43,21 +41,12 @@ I am a Computer Engineering student at Yıldız Technical University, deeply pas
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=furkanvka&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    alt="Furkan's GitHub stats" 
-  />
-  
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanvka&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    alt="Top Languages" 
-  />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=furkanvka&show_icons=true&theme=tokyonight&hide_border=true" alt="Furkan's GitHub stats" />
 </p>
 
----
-
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=furkanvka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
 ## 📫 Contact
 <p align="center">
   <a href="https://github.com/furkanvka">
