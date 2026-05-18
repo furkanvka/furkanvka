@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Engineering student at Yıldız Technical University, deeply passionate about the intersection of **Robotics**, **High-Performance Backend Architectures**, and **Artificial Intelligence**. I love building autonomous systems, optimizing low-level software, and designing scalable backend solutions.
+I am a Computer Engineering student at Yıldız Technical University.
 
 *   🤖 **Robotics & AI:** Working on autonomous navigation (SLAM, LiDAR, IMU), ROS 2 pipelines, and integrating Vision-Language Models (VLMs) for real-world perception.
 *   💻 **Backend Systems:** Crafting high-performance, concurrent architectures using Go, C++, and Java/Spring Boot.
@@ -41,12 +41,17 @@ I am a Computer Engineering student at Yıldız Technical University, deeply pas
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=furkanvka&show_icons=true&theme=tokyonight&hide_border=true" alt="Furkan's GitHub stats" />
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=furkanvka&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkanvka&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=furkanvka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
 ## 📫 Contact
 <p align="center">
   <a href="https://github.com/furkanvka">
