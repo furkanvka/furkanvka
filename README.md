@@ -45,7 +45,6 @@ I am a Computer Engineering student at Yıldız Technical University.
 </p>
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furkanvka&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furkanvka&theme=tokyonight" />
 </p>
 
 ## 📫 Contact
